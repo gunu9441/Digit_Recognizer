@@ -1,0 +1,4 @@
+ final_epoch: 0.99514(146)
+early stopping model: 0.99535, (132)
+
+batchsize 64->256
