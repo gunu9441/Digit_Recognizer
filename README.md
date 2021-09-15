@@ -15,7 +15,7 @@
   Performance: **0.99460**(189/1592)  
   Use **Early stopped** 10-fold cross validation model
 - Version_5
-  Performance:**0.99514**(146/1592)
-  Change **batch size 64->256**
-  Performance: **0.99535**(132/1592)
+  Performance:**0.99514**(146/1592)  
+  Change **batch size 64->256**  
+  Performance: **0.99535**(132/1592)  
   Use **Early stopped model** whch has 256 batch size by using `dataloader`
